@@ -1,0 +1,9 @@
+logs
+valid
+results
+detections_*
+ImageSets
+Annotations
+*.txt
+*.pdf
+.ipynb_checkpoints
