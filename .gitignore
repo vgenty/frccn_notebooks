@@ -7,3 +7,5 @@ Annotations
 *.txt
 *.pdf
 .ipynb_checkpoints
+alex_detections
+*.tar
